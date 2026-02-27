@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "キャンバス",
+  "base_artist": "平井　堅",
+  "createdAt": "2026-02-27T07:40:19.122783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キャンバス",
+      "artist": "+Plus",
+      "has_synced": true,
+      "path": "select/01_キャンバス_+Plus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キャンバス",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/02_キャンバス_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キャンバス",
+      "artist": "Plus",
+      "has_synced": true,
+      "path": "select/03_キャンバス_Plus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キャンバス (Instrumental)",
+      "artist": "+Plus",
+      "has_synced": true,
+      "path": "select/04_キャンバス_(Instrumental)_+Plus.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キャンバス",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/05_キャンバス_Ken_Hirai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャンバス",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_キャンバス_平井_堅.txt"
+    }
+  ]
+}
